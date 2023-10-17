@@ -1,0 +1,16 @@
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Wex_Desenvolvimento-.NET_QA\TestesTDD\TestesTDD\bin\Debug\net5.0\TestesTDD.exe
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Wex_Desenvolvimento-.NET_QA\TestesTDD\TestesTDD\bin\Debug\net5.0\TestesTDD.deps.json
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Wex_Desenvolvimento-.NET_QA\TestesTDD\TestesTDD\bin\Debug\net5.0\TestesTDD.runtimeconfig.json
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Wex_Desenvolvimento-.NET_QA\TestesTDD\TestesTDD\bin\Debug\net5.0\TestesTDD.runtimeconfig.dev.json
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Wex_Desenvolvimento-.NET_QA\TestesTDD\TestesTDD\bin\Debug\net5.0\TestesTDD.dll
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Wex_Desenvolvimento-.NET_QA\TestesTDD\TestesTDD\bin\Debug\net5.0\TestesTDD.pdb
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Wex_Desenvolvimento-.NET_QA\TestesTDD\TestesTDD\obj\Debug\net5.0\TestesTDD.csproj.AssemblyReference.cache
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Wex_Desenvolvimento-.NET_QA\TestesTDD\TestesTDD\obj\Debug\net5.0\TestesTDD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Wex_Desenvolvimento-.NET_QA\TestesTDD\TestesTDD\obj\Debug\net5.0\TestesTDD.AssemblyInfoInputs.cache
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Wex_Desenvolvimento-.NET_QA\TestesTDD\TestesTDD\obj\Debug\net5.0\TestesTDD.AssemblyInfo.cs
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Wex_Desenvolvimento-.NET_QA\TestesTDD\TestesTDD\obj\Debug\net5.0\TestesTDD.csproj.CoreCompileInputs.cache
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Wex_Desenvolvimento-.NET_QA\TestesTDD\TestesTDD\obj\Debug\net5.0\TestesTDD.dll
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Wex_Desenvolvimento-.NET_QA\TestesTDD\TestesTDD\obj\Debug\net5.0\refint\TestesTDD.dll
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Wex_Desenvolvimento-.NET_QA\TestesTDD\TestesTDD\obj\Debug\net5.0\TestesTDD.pdb
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Wex_Desenvolvimento-.NET_QA\TestesTDD\TestesTDD\obj\Debug\net5.0\TestesTDD.genruntimeconfig.cache
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Wex_Desenvolvimento-.NET_QA\TestesTDD\TestesTDD\obj\Debug\net5.0\ref\TestesTDD.dll
