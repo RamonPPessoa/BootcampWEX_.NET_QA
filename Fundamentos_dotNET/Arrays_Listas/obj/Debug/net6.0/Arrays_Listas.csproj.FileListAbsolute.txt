@@ -1,0 +1,15 @@
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Wex_Desenvolvimento-.NET_QA\Fundamentos_dotNET\Arrays_Listas\bin\Debug\net6.0\Arrays_Listas.exe
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Wex_Desenvolvimento-.NET_QA\Fundamentos_dotNET\Arrays_Listas\bin\Debug\net6.0\Arrays_Listas.deps.json
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Wex_Desenvolvimento-.NET_QA\Fundamentos_dotNET\Arrays_Listas\bin\Debug\net6.0\Arrays_Listas.runtimeconfig.json
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Wex_Desenvolvimento-.NET_QA\Fundamentos_dotNET\Arrays_Listas\bin\Debug\net6.0\Arrays_Listas.dll
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Wex_Desenvolvimento-.NET_QA\Fundamentos_dotNET\Arrays_Listas\bin\Debug\net6.0\Arrays_Listas.pdb
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Wex_Desenvolvimento-.NET_QA\Fundamentos_dotNET\Arrays_Listas\obj\Debug\net6.0\Arrays_Listas.csproj.AssemblyReference.cache
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Wex_Desenvolvimento-.NET_QA\Fundamentos_dotNET\Arrays_Listas\obj\Debug\net6.0\Arrays_Listas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Wex_Desenvolvimento-.NET_QA\Fundamentos_dotNET\Arrays_Listas\obj\Debug\net6.0\Arrays_Listas.AssemblyInfoInputs.cache
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Wex_Desenvolvimento-.NET_QA\Fundamentos_dotNET\Arrays_Listas\obj\Debug\net6.0\Arrays_Listas.AssemblyInfo.cs
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Wex_Desenvolvimento-.NET_QA\Fundamentos_dotNET\Arrays_Listas\obj\Debug\net6.0\Arrays_Listas.csproj.CoreCompileInputs.cache
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Wex_Desenvolvimento-.NET_QA\Fundamentos_dotNET\Arrays_Listas\obj\Debug\net6.0\Arrays_Listas.dll
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Wex_Desenvolvimento-.NET_QA\Fundamentos_dotNET\Arrays_Listas\obj\Debug\net6.0\refint\Arrays_Listas.dll
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Wex_Desenvolvimento-.NET_QA\Fundamentos_dotNET\Arrays_Listas\obj\Debug\net6.0\Arrays_Listas.pdb
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Wex_Desenvolvimento-.NET_QA\Fundamentos_dotNET\Arrays_Listas\obj\Debug\net6.0\Arrays_Listas.genruntimeconfig.cache
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Wex_Desenvolvimento-.NET_QA\Fundamentos_dotNET\Arrays_Listas\obj\Debug\net6.0\ref\Arrays_Listas.dll
