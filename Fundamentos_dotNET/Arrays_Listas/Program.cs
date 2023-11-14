@@ -1,4 +1,26 @@
-﻿int[] arrayInteiros = new int[3];
+﻿
+
+
+
+List<string> listaString = new List<string>();
+
+listaString.Add("AM");
+
+listaString.Add("AC");
+
+listaString.Add("AP");
+
+int contadorForeach = 0;
+
+foreach (string item in listaString)
+{
+    Console.WriteLine($"Posição Nº{contadorForeach}- {item}");
+    contadorForeach++;
+}
+
+
+
+/*int[] arrayInteiros = new int[3];
 
 
 arrayInteiros[0] = 72;
