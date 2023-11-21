@@ -1,0 +1,15 @@
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Wex_Desenvolvimento-.NET_QA\ExplorandoLinguagemCSharp\Propriedades_Metodo_Construtores\bin\Debug\net6.0\Propriedades_Metodo_Construtores.exe
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Wex_Desenvolvimento-.NET_QA\ExplorandoLinguagemCSharp\Propriedades_Metodo_Construtores\bin\Debug\net6.0\Propriedades_Metodo_Construtores.deps.json
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Wex_Desenvolvimento-.NET_QA\ExplorandoLinguagemCSharp\Propriedades_Metodo_Construtores\bin\Debug\net6.0\Propriedades_Metodo_Construtores.runtimeconfig.json
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Wex_Desenvolvimento-.NET_QA\ExplorandoLinguagemCSharp\Propriedades_Metodo_Construtores\bin\Debug\net6.0\Propriedades_Metodo_Construtores.dll
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Wex_Desenvolvimento-.NET_QA\ExplorandoLinguagemCSharp\Propriedades_Metodo_Construtores\bin\Debug\net6.0\Propriedades_Metodo_Construtores.pdb
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Wex_Desenvolvimento-.NET_QA\ExplorandoLinguagemCSharp\Propriedades_Metodo_Construtores\obj\Debug\net6.0\Propriedades_Metodo_Construtores.csproj.AssemblyReference.cache
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Wex_Desenvolvimento-.NET_QA\ExplorandoLinguagemCSharp\Propriedades_Metodo_Construtores\obj\Debug\net6.0\Propriedades_Metodo_Construtores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Wex_Desenvolvimento-.NET_QA\ExplorandoLinguagemCSharp\Propriedades_Metodo_Construtores\obj\Debug\net6.0\Propriedades_Metodo_Construtores.AssemblyInfoInputs.cache
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Wex_Desenvolvimento-.NET_QA\ExplorandoLinguagemCSharp\Propriedades_Metodo_Construtores\obj\Debug\net6.0\Propriedades_Metodo_Construtores.AssemblyInfo.cs
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Wex_Desenvolvimento-.NET_QA\ExplorandoLinguagemCSharp\Propriedades_Metodo_Construtores\obj\Debug\net6.0\Propriedades_Metodo_Construtores.csproj.CoreCompileInputs.cache
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Wex_Desenvolvimento-.NET_QA\ExplorandoLinguagemCSharp\Propriedades_Metodo_Construtores\obj\Debug\net6.0\Propriedades_Metodo_Construtores.dll
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Wex_Desenvolvimento-.NET_QA\ExplorandoLinguagemCSharp\Propriedades_Metodo_Construtores\obj\Debug\net6.0\refint\Propriedades_Metodo_Construtores.dll
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Wex_Desenvolvimento-.NET_QA\ExplorandoLinguagemCSharp\Propriedades_Metodo_Construtores\obj\Debug\net6.0\Propriedades_Metodo_Construtores.pdb
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Wex_Desenvolvimento-.NET_QA\ExplorandoLinguagemCSharp\Propriedades_Metodo_Construtores\obj\Debug\net6.0\Propriedades_Metodo_Construtores.genruntimeconfig.cache
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Wex_Desenvolvimento-.NET_QA\ExplorandoLinguagemCSharp\Propriedades_Metodo_Construtores\obj\Debug\net6.0\ref\Propriedades_Metodo_Construtores.dll
