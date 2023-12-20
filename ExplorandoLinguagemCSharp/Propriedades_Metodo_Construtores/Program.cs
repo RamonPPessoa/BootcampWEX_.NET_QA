@@ -2,16 +2,13 @@
 
 
 
-Pessoa p1 = new Pessoa();
-
-p1.Nome = "Fernanda";
-p1.Sobrenome = "Silva";
+Pessoa p1 = new Pessoa("Fernanda","Silva");
 
 
-Pessoa p2 = new Pessoa();
 
-p2.Nome = "Camila";
-p2.Sobrenome = "Santos";
+Pessoa p2 = new Pessoa("Camila","Santos");
+
+
 
 Curso cursoDeIdioma = new Curso();
 cursoDeIdioma.Nome = "Ingês";
