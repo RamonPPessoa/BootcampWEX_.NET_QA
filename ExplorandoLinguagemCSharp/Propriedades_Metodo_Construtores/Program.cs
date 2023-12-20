@@ -6,7 +6,7 @@ Pessoa p1 = new Pessoa("Fernanda","Silva");
 
 
 
-Pessoa p2 = new Pessoa("Camila","Santos");
+Pessoa p2 = new Pessoa(nome: "Camila",sobrenome: "Santos");
 
 
 
