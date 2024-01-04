@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ramon\\Documents\\cursosDIO\\dotNET\\Bootcamp\\Wex_Desenvolvimento-.NET_QA\\POO\\AbstracaoEncapsulamento\\AbstracaoEncapsulamento\\AbstracaoEncapsulamento.csproj",
+      "projectUniqueName": "C:\\Users\\ramon\\Documents\\cursosDIO\\dotNET\\Bootcamp\\Wex_Desenvolvimento-.NET_QA\\POO\\AbstracaoEncapsulamento\\AbstracaoEncapsulamento.csproj",
       "projectName": "AbstracaoEncapsulamento",
-      "projectPath": "C:\\Users\\ramon\\Documents\\cursosDIO\\dotNET\\Bootcamp\\Wex_Desenvolvimento-.NET_QA\\POO\\AbstracaoEncapsulamento\\AbstracaoEncapsulamento\\AbstracaoEncapsulamento.csproj",
+      "projectPath": "C:\\Users\\ramon\\Documents\\cursosDIO\\dotNET\\Bootcamp\\Wex_Desenvolvimento-.NET_QA\\POO\\AbstracaoEncapsulamento\\AbstracaoEncapsulamento.csproj",
       "packagesPath": "C:\\Users\\ramon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ramon\\Documents\\cursosDIO\\dotNET\\Bootcamp\\Wex_Desenvolvimento-.NET_QA\\POO\\AbstracaoEncapsulamento\\AbstracaoEncapsulamento\\obj\\",
+      "outputPath": "C:\\Users\\ramon\\Documents\\cursosDIO\\dotNET\\Bootcamp\\Wex_Desenvolvimento-.NET_QA\\POO\\AbstracaoEncapsulamento\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ramon\\AppData\\Roaming\\NuGet\\NuGet.Config",
