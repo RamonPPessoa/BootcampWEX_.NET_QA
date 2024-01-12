@@ -13,7 +13,7 @@ namespace AbstracaoEncapsulamento.Models
 
         public int Idade{ get; set;}
 
-        public void Apresentar()
+        public virtual void Apresentar()
         {
             Console.WriteLine($"Ola seu nome é: {Nome} e usa idade é {Idade}");
         }
