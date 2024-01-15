@@ -2,18 +2,26 @@
 
 
 
-Aluno aluno1 = new Aluno();
-aluno1.Nome = "João";
-aluno1.Idade = 40;
-aluno1.Nota = 10;
 
-aluno1.Apresentar();
+Corrente corrente1 = new Corrente();
 
-Professor p1  = new Professor();
-p1.Nome = "Maria";
-p1.Idade = 42;
-p1.Salario = 2000;
-p1.Apresentar();
+corrente1.Creditar(1000);
+corrente1.ExibirSaldo();
+
+
+
+//Aluno aluno1 = new Aluno();
+//aluno1.Nome = "João";
+//aluno1.Idade = 40;
+//aluno1.Nota = 10;
+
+//aluno1.Apresentar();
+
+//Professor p1  = new Professor();
+//p1.Nome = "Maria";
+//p1.Idade = 42;
+//p1.Salario = 2000;
+//p1.Apresentar();
 
 //ContaCorrente conta1 = new ContaCorrente(123,1000);
 //conta1.ExibirSaldo();
