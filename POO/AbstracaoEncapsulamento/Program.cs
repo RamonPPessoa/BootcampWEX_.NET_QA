@@ -1,12 +1,16 @@
 ﻿using AbstracaoEncapsulamento.Models;
 
+Pessoa p1 = new Pessoa("Débora");
+Aluno al1 = new Aluno("Márcia");
+
+al1.Apresentar();
+Professor prof1 = new Professor();
 
 
+//Corrente corrente1 = new Corrente();
 
-Corrente corrente1 = new Corrente();
-
-corrente1.Creditar(1000);
-corrente1.ExibirSaldo();
+//corrente1.Creditar(1000);
+//corrente1.ExibirSaldo();
 
 
 
