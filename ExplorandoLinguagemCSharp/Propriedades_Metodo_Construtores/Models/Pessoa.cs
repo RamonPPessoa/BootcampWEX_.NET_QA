@@ -16,6 +16,8 @@ namespace Propriedades_Metodo_Construtores.Models
         }
         public Pessoa(string nome, string sobrenome)
         {
+            Nome = nome;
+            Sobrenome = sobrenome;
 
         }
 
