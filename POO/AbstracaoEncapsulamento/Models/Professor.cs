@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace AbstracaoEncapsulamento.Models
 {
-    public class Professor : Pessoa
+    public  class Professor : Pessoa
     {
         public Professor()
         {
@@ -20,7 +20,7 @@ namespace AbstracaoEncapsulamento.Models
         public decimal Salario { get; set; }
 
 
-        public override void Apresentar() 
+        public sealed override void Apresentar() 
         {
             Console.WriteLine($"Sou o(a) professor(a) {Nome},tenho {Idade} e ganho {Salario}");
         }
